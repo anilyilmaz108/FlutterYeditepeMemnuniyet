@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1019312254079",
+    "project_id": "satisfaction-d78a2",
+    "storage_bucket": "satisfaction-d78a2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1019312254079:android:6e92f083a6b2c7336a634a",
+        "android_client_info": {
+          "package_name": "com.anilyilmaz.yeditepe_memnuniyet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1019312254079-kaqe29cj9mf7c4lsk9l892koq78479hd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.anilyilmaz.yeditepe_memnuniyet",
+            "certificate_hash": "4546ef670dd5eb05d4ff1b716e77e99d121fc36f"
+          }
+        },
+        {
+          "client_id": "1019312254079-6jh4pcb46qbunmjqf6nq4t6dppalj4f2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaqtc66YEcEj7KuTA5tgouAPXrZjYlsdQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1019312254079-6jh4pcb46qbunmjqf6nq4t6dppalj4f2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

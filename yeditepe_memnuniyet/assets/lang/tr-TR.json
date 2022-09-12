@@ -1,0 +1,33 @@
+{
+    "main": {
+        "title": "Dil Desteği",
+        "bodytext": ""
+    },
+    "home_view": {
+        "home_view_title_1": "Yeditepe Üniversitesi",
+        "home_view_title_2": "Personel Memnuniyet Anketi",
+        "home_view_title_3": "Değerli Akademik/İdari Çalışanımız,\n\nKaliteli hizmet sunmayı hedefleyen kurumumuzun bundan sonraki çalışmalarında yol gösterici olması açısından anketimizin sizler tarafından yanıtlanması büyük önem taşımaktadır.",
+        "home_view_title_4": "Görüşlerinizi bizimle paylaşın..",
+        "home_view_title_5": "Değerlendirmeniz yapılmıştır..",
+        "home_view_title_6": "Gönder"
+    },
+    "information_view": {
+        "information_view_title_1": "Anketimize katıldığınız için teşekkür ederiz"
+    },
+    "login_view": {
+        "login_view_title_1": "Yeditepe Üniversitesi",
+        "login_view_title_2": "Personel Memnuniyet Anketi",
+        "login_view_title_3": "Google ile Giriş Yap",
+        "login_view_error": "Hata!",
+        "login_view_ok": "Tamam"
+    },
+    "complaint_selected_view": {
+        "complaint_selected_view_title_1": "Neden İyi Hissetmiyorsunuz?",
+        "complaint_selected_view_title_2": "Uzun Mesai Saatleri",
+        "complaint_selected_view_title_3": "Yetersiz Mesai Ücreti",
+        "complaint_selected_view_title_4": "Ekip Ruhu Eksikliği",
+        "complaint_selected_view_title_5": "Sağlıksız Çalışma Ortamı",
+        "complaint_selected_view_title_6": "Diğer",
+        "complaint_selected_view_title_7": "Gönder"
+    }
+}

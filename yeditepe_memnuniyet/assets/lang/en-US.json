@@ -1,0 +1,33 @@
+{
+    "main": {
+        "title": "Language Support",
+        "bodytext": ""
+    },
+    "home_view": {
+        "home_view_title_1": "Yeditepe University",
+        "home_view_title_2": "Personnel Satisfaction Survey",
+        "home_view_title_3": "Dear Academic/Administrative Staff,\n\nIt is of great importance that you answer our survey in order to guide the future work of our institution, which aims to provide quality service.",
+        "home_view_title_4": "Share your views with us..",
+        "home_view_title_5": "Your assessment has been made..",
+        "home_view_title_6": "Submit"
+    },
+    "information_view": {
+        "information_view_title_1": "Thank you for participating in our survey."
+    },
+    "login_view": {
+        "login_view_title_1": "Yeditepe University",
+        "login_view_title_2": "Personnel Satisfaction Survey",
+        "login_view_title_3": "Sign in with Google",
+        "login_view_error": "Error!",
+        "login_view_ok": "Ok"
+    },
+    "complaint_selected_view": {
+        "complaint_selected_view_title_1": "Why Don't You Feel Good?",
+        "complaint_selected_view_title_2": "Long Working Hours",
+        "complaint_selected_view_title_3": "Insufficient Overtime Pay",
+        "complaint_selected_view_title_4": "Lack of Team Spirit",
+        "complaint_selected_view_title_5": "Unhealthy Work Environment",
+        "complaint_selected_view_title_6": "Other",
+        "complaint_selected_view_title_7": "Submit"
+    }
+}
